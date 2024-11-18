@@ -1,4 +1,4 @@
-# FULL_ADDER_SUBTRACTOR
+![WhatsApp Image 2024-11-18 at 14 30 05_f12a3e46](https://github.com/user-attachments/assets/7364a0ac-9b56-45a0-afec-2037a7d384ed)# FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -38,6 +38,7 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 ![full_adder_tt](https://github.com/user-attachments/assets/599e03a9-a805-4450-b98f-090ef033a751)
+![WhatsApp Image 2024-11-18 at 14 30 05_c991541b](https://github.com/user-attachments/assets/b55d1ad8-bfbd-46b9-b639-14633aa60cf1)
 
 **Program:**
 
