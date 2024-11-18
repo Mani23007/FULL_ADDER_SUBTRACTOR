@@ -1,5 +1,3 @@
-![WhatsApp Image 2024-11-18 at 14 30 05_f12a3e46](https://github.com/user-attachments/assets/7364a0ac-9b56-45a0-afec-2037a7d384ed)# FULL_ADDER_SUBTRACTOR
-
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
