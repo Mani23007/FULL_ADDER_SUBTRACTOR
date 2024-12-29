@@ -73,7 +73,7 @@ Write the detailed procedure here
 
 Developed by: Manikandan.k 
 
-RegisterNumber: 24900685
+RegisterNumber:212224230150
 
 */
 
@@ -92,6 +92,7 @@ and(w4,cin,a);
 or(carry,w2,w3,w4);
 endmodule
 ~~~ 
+## Full_subtracter
 
 ~~~
 ## Full_subtractor
@@ -113,11 +114,15 @@ endmodule
 
 **Output Timing Waveform**
 
+
 FULL ADDER:
-![Screenshot 2024-11-18 141007](https://github.com/user-attachments/assets/fbf4fa67-4d40-49c2-84fc-039aab1ca26f)
+
+![Full Adder](https://github.com/user-attachments/assets/bbcd5097-f239-4277-800d-86c857eea149)
+
 
 FULL SUBTRACTER:
-![WhatsApp Image 2024-11-18 at 14 13 46_e63be326](https://github.com/user-attachments/assets/c11e2411-2d13-415c-8f89-039bc14e8a0b)
+
+![Full Subtracter](https://github.com/user-attachments/assets/ea5a33b8-f512-4c98-b443-9f567f51608a)
 
 **Result:**
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
